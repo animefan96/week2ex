@@ -1,0 +1,45 @@
+body {
+  margin: 0 auto;
+}
+ul {
+  padding: 0
+}
+h1 {
+  font-size: 2em;
+}
+nav.navigation {
+  background-color: blue;
+  margin: 100px;
+  padding: 20px;
+  text-align: center;
+}
+.navigation li {
+  background-color: gray;
+  display: inline-block;
+  margin: 0 auto;
+  padding: 10px;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+section {
+  background-color: tomato;
+  text-align: center;
+  display: table;
+}
+div.box {
+  float: left;
+  width: 33.333333333%;
+}
+div.box img {
+  width: 60%;
+  height: 50%
+}
+div.box p {
+  background-color: gray;
+  border: solid;
+  height: 40px;
+  margin: 0 auto;
+  padding: 20px;
+}
